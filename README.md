@@ -19,9 +19,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-## 1. To Write a C program that illustrates files copying 
+## 1.To Write a C program that illustrates files copying 
 
-``` bash
+```
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -74,13 +74,15 @@ int main(int argc, char *argv[]) {
 
 ```
 
+## OUTPUT
+
+<img width="1481" height="935" alt="image" src="https://github.com/user-attachments/assets/f21e5604-ca11-4b7a-8561-caa21182bf25" />
 
 
 
+## 2.To Write a C program that illustrates files locking
 
-## 2. To Write a C program that illustrates files locking
-
-``` bash
+```
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -149,15 +151,19 @@ int main(int argc, char *argv[]) {
 ```
 
 
+
 ## OUTPUT
-*  __Output that illustrates files copying__
-  <img width="1024" height="152" alt="1" src="https://github.com/user-attachments/assets/8aa04b2d-12c5-4e29-8ee4-17b490bb8564" />
 
-* __Output that illustrates files locking__
+<img width="1469" height="790" alt="image" src="https://github.com/user-attachments/assets/0fbbc59a-a200-4ef5-a0f6-e65bbf734282" />
 
-   <img width="943" height="394" alt="2" src="https://github.com/user-attachments/assets/2e0e0e93-3e10-4c23-b321-77b120b0a1b4" />
-<img width="906" height="555" alt="3" src="https://github.com/user-attachments/assets/fe06661c-02a2-4146-93ec-97dafa85c97e" />
 
+<img width="1666" height="775" alt="image" src="https://github.com/user-attachments/assets/7f8d703b-e221-48c7-a994-6fa9bf9c3cea" />
+
+
+<img width="1909" height="802" alt="image" src="https://github.com/user-attachments/assets/0ea96ec0-8c94-48a0-92fa-7baa50466c72" />
+
+
+<img width="1913" height="683" alt="image" src="https://github.com/user-attachments/assets/6a1b4174-3a34-4a34-9b7a-b2e07e9ebdb9" />
 
 
 # RESULT:
